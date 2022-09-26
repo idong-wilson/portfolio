@@ -19,7 +19,7 @@ ul {
 
 .active {
     color: #fc036b;
-    text-decoration: underline;
+    text-decoration: none;
     font-weight: bold;
 }
 
@@ -135,6 +135,7 @@ h4 {
     color: #484872;
     margin: 20px;
 }
+
 
 p {
     color: lightslategray;
@@ -280,6 +281,7 @@ span {
     position: relative;
     margin-left: 40px;
 }
+
 
 .contact-form form input, 
 form textarea {
